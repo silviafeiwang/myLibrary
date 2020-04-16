@@ -7,6 +7,7 @@
 * [Python](https://github.com/feiwang20/my-weapon.wiki.git)
 * C++
 * [Latex](https://github.com/feiwang20/my-weapon.wiki.git)
+* HTML & CSS & JavaScript
 
 ---
 ### Computer Networking
@@ -28,3 +29,4 @@
 
 ---
 ### MISC
+* Build my site with Jekyll
