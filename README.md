@@ -28,5 +28,5 @@
 * Deep Learning
 
 ---
-### MISC
-* Build my site with Jekyll
+### Misc
+* [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
