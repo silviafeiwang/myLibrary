@@ -4,8 +4,10 @@
 ## Subjects:
 
 ### Programming & Languages
-* Python
+* [Python](https://github.com/feiwang20/my-weapon.wiki.git)
 * C++
+* [Latex](https://github.com/feiwang20/my-weapon.wiki.git)
+
 ---
 ### Computer Networking
 ---
@@ -19,9 +21,8 @@
 ---
 ### Distributed Systems
 
-
 ---
-### AI & ML
+### [AI & ML](https://github.com/feiwang20/my-weapon.wiki.git)
 * Reinforcement Learning
 * Deep Learning
 
