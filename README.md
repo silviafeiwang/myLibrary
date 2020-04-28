@@ -27,6 +27,9 @@
 * Reinforcement Learning
 * Deep Learning
 
+### Academic English
+* Paper Writing
+
 ---
 ### Misc
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
