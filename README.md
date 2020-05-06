@@ -14,36 +14,44 @@ Table of Contents
       * [Distributed Systems](#distributed-systems)
       * [Misc](#misc)
 
-## Programming Languages
-* [Python](https://github.com/feiwang20/my-weapon/wiki/Python)
-* C++
-* [Latex](https://github.com/feiwang20/my-weapon/wiki/Latex)
-* HTML & CSS & JavaScript
+---
+# Computer Networking
 
 ---
-## [Academic English](https://github.com/feiwang20/my-weapon/wiki/Academic-English)
-* Paper Writing
+# Machine Learning
+## Reinforcement Learning
+* **[Stanford Reinforcement Learning Course](http://web.stanford.edu/class/cs234/index.html)**: CS234, Reinforcement Learning Winter 2020.
+## Deep Learning
+* **[Stanford AI Courses Cheatsheets](https://stanford.edu/~shervine/teaching/)**: Easy-to-digest cheatsheets highlighting the important points of each class - CS221 AI, CS229 ML, CS230 DL.
 
 ---
-## Computer Networking
+# Programming Languages
+## Python
+* **[Real Python](https://realpython.com/)**: Learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
+
+* **[Create a Custom Gym Environment in Python](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa)**: When we want to use Reinforcement Learning to solve our problems, we need to be able to create our own environment that behaves as we want it to. Here is an [example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e).
+
+## C++
+
+## Latex
+* [Latex Math Cheatsheet](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf)
+
+## HTML & CSS & JavaScript
 
 ---
-## [Machine Learning](https://github.com/feiwang20/my-weapon/wiki/Machine-Learning)
-* Reinforcement Learning
-* Deep Learning
+# Academic English
+## Paper Writing
+* [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#acks)
 
 ---
-## Math for CS
+# Math for CS
 
 ---
-## Operating Systems
-* [Linux](https://github.com/feiwang20/my-weapon/wiki/Linux)
-* Unix
+# Operating Systems
+## Linux
+* [How to Install and Configure VNC on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
+## Unix
 
 ---
-
-## Distributed Systems
----
-
-## Misc
+# Misc
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
