@@ -1,5 +1,8 @@
 
-# Resources &amp; Tutorials for learning the world
+# My Weapon
+
+A collection of resources for me to learn about the amazing world!
+
 
 Table of Contents
 =================
@@ -12,9 +15,7 @@ Table of Contents
    * [Computer Networking](#computer-networking)
    * [Programming Languages](#programming-languages)
       * [Python](#python)
-      * [C  ](#c)
       * [Latex](#latex)
-      * [HTML &amp; CSS &amp; JavaScript](#html--css--javascript)
    * [Academic English](#academic-english)
       * [Paper Writing](#paper-writing)
    * [Math for CS](#math-for-cs)
@@ -40,12 +41,9 @@ Table of Contents
 
 * **[Create a Custom Gym Environment in Python](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa)**: When we want to use Reinforcement Learning to solve our problems, we need to be able to create our own environment that behaves as we want it to. Here is an [example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e).
 
-## C++
-
 ## Latex
 * [Latex Math Cheatsheet](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf)
 
-## HTML & CSS & JavaScript
 
 ---
 # Academic English
@@ -64,3 +62,6 @@ Table of Contents
 ---
 # Misc
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
+
+
+TODO: classify books, conferences/talks, blogs/websites, libararies/framewprks/software, etc.
