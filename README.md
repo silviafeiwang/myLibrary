@@ -3,33 +3,40 @@
 
 ## Subjects:
 
-### Programming & Languages
-* Python
+### Programming Languages
+* [Python](https://github.com/feiwang20/my-weapon/wiki/Python)
 * C++
-* Latex
+* [Latex](https://github.com/feiwang20/my-weapon/wiki/Latex)
 * HTML & CSS & JavaScript
 
 ---
+### [Academic English](https://github.com/feiwang20/my-weapon/wiki/Academic-English)
+* Paper Writing
+
+---
 ### Computer Networking
+
+---
+### [Machine Learning](https://github.com/feiwang20/my-weapon/wiki/Machine-Learning)
+* Reinforcement Learning
+* Deep Learning
+
 ---
 ### Math for CS
 
 ---
 ### Operating Systems
-* Linux
+* [Linux](https://github.com/feiwang20/my-weapon/wiki/Linux)
 * Unix
 
 ---
+
+
+
+
 ### Distributed Systems
 
 ---
-### AI & ML
-* Reinforcement Learning
-* Deep Learning
-
-### Academic English
-* Paper Writing
-
 ---
 ### Misc
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
