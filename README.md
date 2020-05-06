@@ -4,25 +4,34 @@
 Table of Contents
 =================
 
-   * [Rdddesources &amp; Tutorials for learning the world](#resources--tutorials-for-learning-the-world)
-      * [Programming Languages](#programming-languages)
-      * [<a href="https://github.com/feiwang20/my-weapon/wiki/Academic-English">Academic English</a>](#academic-english)
-      * [Computer Networking](#computer-networking)
-      * [<a href="https://github.com/feiwang20/my-weapon/wiki/Machine-Learning">Machine Learning</a>](#machine-learning)
-      * [Math for CS](#math-for-cs)
-      * [Operating Systems](#operating-systems)
-      * [Distributed Systems](#distributed-systems)
-      * [Misc](#misc)
+   * [Resources &amp; Tutorials for learning the world](#resources--tutorials-for-learning-the-world)
+   * [Table of Contents](#table-of-contents)
+   * [Machine Learning](#machine-learning)
+      * [Reinforcement Learning](#reinforcement-learning)
+      * [Deep Learning](#deep-learning)
+   * [Computer Networking](#computer-networking)
+   * [Programming Languages](#programming-languages)
+      * [Python](#python)
+      * [C  ](#c)
+      * [Latex](#latex)
+      * [HTML &amp; CSS &amp; JavaScript](#html--css--javascript)
+   * [Academic English](#academic-english)
+      * [Paper Writing](#paper-writing)
+   * [Math for CS](#math-for-cs)
+   * [Operating Systems](#operating-systems)
+      * [Linux](#linux)
+      * [Unix](#unix)
+   * [Misc](#misc)
 
----
-# Computer Networking
 
----
 # Machine Learning
 ## Reinforcement Learning
 * **[Stanford Reinforcement Learning Course](http://web.stanford.edu/class/cs234/index.html)**: CS234, Reinforcement Learning Winter 2020.
 ## Deep Learning
 * **[Stanford AI Courses Cheatsheets](https://stanford.edu/~shervine/teaching/)**: Easy-to-digest cheatsheets highlighting the important points of each class - CS221 AI, CS229 ML, CS230 DL.
+
+---
+# Computer Networking
 
 ---
 # Programming Languages
