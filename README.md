@@ -1,42 +1,49 @@
 
 # Resources &amp; Tutorials for learning the world
 
-## Subjects:
+Table of Contents
+=================
 
-### Programming Languages
+   * [Rdddesources &amp; Tutorials for learning the world](#resources--tutorials-for-learning-the-world)
+      * [Programming Languages](#programming-languages)
+      * [<a href="https://github.com/feiwang20/my-weapon/wiki/Academic-English">Academic English</a>](#academic-english)
+      * [Computer Networking](#computer-networking)
+      * [<a href="https://github.com/feiwang20/my-weapon/wiki/Machine-Learning">Machine Learning</a>](#machine-learning)
+      * [Math for CS](#math-for-cs)
+      * [Operating Systems](#operating-systems)
+      * [Distributed Systems](#distributed-systems)
+      * [Misc](#misc)
+
+## Programming Languages
 * [Python](https://github.com/feiwang20/my-weapon/wiki/Python)
 * C++
 * [Latex](https://github.com/feiwang20/my-weapon/wiki/Latex)
 * HTML & CSS & JavaScript
 
 ---
-### [Academic English](https://github.com/feiwang20/my-weapon/wiki/Academic-English)
+## [Academic English](https://github.com/feiwang20/my-weapon/wiki/Academic-English)
 * Paper Writing
 
 ---
-### Computer Networking
+## Computer Networking
 
 ---
-### [Machine Learning](https://github.com/feiwang20/my-weapon/wiki/Machine-Learning)
+## [Machine Learning](https://github.com/feiwang20/my-weapon/wiki/Machine-Learning)
 * Reinforcement Learning
 * Deep Learning
 
 ---
-### Math for CS
+## Math for CS
 
 ---
-### Operating Systems
+## Operating Systems
 * [Linux](https://github.com/feiwang20/my-weapon/wiki/Linux)
 * Unix
 
 ---
 
-
-
-
-### Distributed Systems
-
+## Distributed Systems
 ---
----
-### Misc
+
+## Misc
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
