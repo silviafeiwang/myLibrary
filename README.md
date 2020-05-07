@@ -37,10 +37,12 @@ Table of Contents
 # Machine Learning
 ## Reinforcement Learning
 * :movie_camera: [Stanford Reinforcement Learning Course:](http://web.stanford.edu/class/cs234/index.html) CS234, Reinforcement Learning Winter 2020.
-* :book: [Deep Reinforcement Learning Hands-On by Maxim Lapan](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands?utm_source=github&utm_medium=repository&utm_campaign=9781788834247) :octocat: [[code]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
+* Deep Reinforcement Learning Hands-On by Maxim Lapan :book: [[book]](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands?utm_source=github&utm_medium=repository&utm_campaign=9781788834247) :octocat: [[code]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
+* UCBerkely Deep Reinforcement Learning Course: :globe_with_meridians: [[Slides and Homeworks for CS285]](http://rail.eecs.berkeley.edu/deeprlcourse/) :movie_camera: [[older lectures]]( https://m.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
+* :movie_camera: [DeepMind&UCI Deep Reinforcemenr Learning Course](https://m.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
 ## Deep Learning
 * :pencil: [Stanford AI Courses Cheatsheets:](https://stanford.edu/~shervine/teaching/) Easy-to-digest cheatsheets highlighting the important points of each class - CS221 AI, CS229 ML, CS230 DL.
-* :open_file_folder: :movie_camera: Deep Learning Specialization
+* :open_file_folder: :movie_camera: [Deep Learning](https://www.coursera.org/specializations/deep-learning?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
 	* Neural Network and Deep Learning
 	* Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 	* Structuring Machine Learning Projects
@@ -54,12 +56,12 @@ Table of Contents
 # Programming Languages
 ## Python
 * :globe_with_meridians: [Real Python:](https://realpython.com/) Learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
-
+* :open_file_folder: :globe_with_meridians: [Awesome Python:](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources.
 * :globe_with_meridians: [Create a Custom Gym Environment in Python:](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa) When we want to use Reinforcement Learning to solve our problems, we need to be able to create our own environment that behaves as we want it to. Here is an [example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e).
 
 ## Latex
 * :pencil: [Latex Math Cheatsheet](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf)
-
+* :pencil: [Latex Basic Cheatsheet](https://www.nyu.edu/projects/beber/files/Chang_LaTeX_sheet.pdf)
 
 ---
 # Academic English
@@ -82,8 +84,11 @@ Table of Contents
 
 ---
 # Research
+* :globe_with_meridians: [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow)
+* :globe_with_meridians: [Tips on How to Find Research Problems](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)
 * :globe_with_meridians: [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#acks)
 * :movie_camera: [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
+* :globe_with_meridians: [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data)
 
 ---
 # Math for CS
