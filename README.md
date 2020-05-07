@@ -49,7 +49,8 @@ Table of Contents
 ## Python
 * :globe_with_meridians: [Real Python:](https://realpython.com/) Learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
 * Python 3 Module of the Week: A series of blog posts written by Doug Hellmann. It was started as a way to build the habit of writing something on a regular basis. The focus of the series is building a set of example code for the modules in the Python standard library. :globe_with_meridians: [[blogs]](https://pymotw.com/3/) :octocat: [[code]](https://bitbucket.org/dhellmann/pymotw/)
-* :open_file_folder: :globe_with_meridians: [Awesome Python:](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources.
+* :open_file_folder: :globe_with_meridians: [Awesome Python:](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources. The following are what I find very handy:
+  * :wrench: :octocat: [howdoi:](https://github.com/gleitz/howdoi) command line tool
 * :globe_with_meridians: [Create a Custom Gym Environment in Python:](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa) When we want to use Reinforcement Learning to solve our problems, we need to be able to create our own environment that behaves as we want it to. Here is an [example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e).
 
 ## Latex
@@ -99,14 +100,14 @@ Table of Contents
 ---
 Note:
 * books :book:
-* cheatsheet :pencil:
-* paper :page_facing_up:
+* cheatsheets :pencil:
+* papers :page_facing_up:
 * collection/specialization :open_file_folder:
 * conferences/talks :speech_balloon:
 * online video courses :movie_camera:
 * blogs/websites :globe_with_meridians:
-* libararies/frameworks/software :wrench:
-* GitHub repo :octocat:
+* libararies/frameworks/software/tools :wrench:
+* GitHub repos :octocat:
 
 
 
