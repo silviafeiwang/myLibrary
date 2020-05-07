@@ -3,16 +3,6 @@
 
 A collection of resources for me to learn about the amazing world!
 
-* books :book:
-* cheatsheet :pencil:
-* paper :page_facing_up:
-* collection/specialization :open_file_folder:
-* conferences/talks :speech_balloon:
-* online courses :movie_camera:
-* blogs/websites :globe_with_meridians:
-* libararies/frameworks/software :wrench:
-* GitHub repo :octocat:
-
 Table of Contents
 =================
 
@@ -105,6 +95,18 @@ Table of Contents
 ---
 # Misc
 * :globe_with_meridians: [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
+
+---
+Note:
+* books :book:
+* cheatsheet :pencil:
+* paper :page_facing_up:
+* collection/specialization :open_file_folder:
+* conferences/talks :speech_balloon:
+* online video courses :movie_camera:
+* blogs/websites :globe_with_meridians:
+* libararies/frameworks/software :wrench:
+* GitHub repo :octocat:
 
 
 
