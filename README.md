@@ -26,7 +26,7 @@ Table of Contents
       * [Python](#python)
       * [Latex](#latex)
    * [Academic English](#academic-english)
-   * [Research Skills](#research)
+   * [Research Skills](#research-skills)
    * [Math for CS](#math-for-cs)
    * [Operating Systems](#operating-systems)
       * [Linux](#linux)
