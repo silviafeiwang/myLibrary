@@ -6,7 +6,7 @@ A collection of resources for me to learn about the amazing world!
 Table of Contents
 =================
 
-   * [Resources &amp; Tutorials for learning the world](#resources--tutorials-for-learning-the-world)
+   * [My Weapon](#my-weapon)
    * [Table of Contents](#table-of-contents)
    * [Machine Learning](#machine-learning)
       * [Reinforcement Learning](#reinforcement-learning)
@@ -90,7 +90,7 @@ Table of Contents
 # Operating Systems
 ## Linux
 * :globe_with_meridians: [How to Install and Configure VNC on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
-## Unix
+
 
 ---
 # Misc
