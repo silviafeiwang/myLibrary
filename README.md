@@ -37,6 +37,7 @@ Table of Contents
 # Machine Learning
 ## Reinforcement Learning
 * :movie_camera: [Stanford Reinforcement Learning Course:](http://web.stanford.edu/class/cs234/index.html) CS234, Reinforcement Learning Winter 2020.
+* :book: [Deep Reinforcement Learning Hands-On by Maxim Lapan](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands?utm_source=github&utm_medium=repository&utm_campaign=9781788834247) :octocat: [[code]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 ## Deep Learning
 * :pencil: [Stanford AI Courses Cheatsheets:](https://stanford.edu/~shervine/teaching/) Easy-to-digest cheatsheets highlighting the important points of each class - CS221 AI, CS229 ML, CS230 DL.
 * :open_file_folder: :movie_camera: Deep Learning Specialization
@@ -63,7 +64,6 @@ Table of Contents
 ---
 # Academic English
 ## Paper Writing
-* :globe_with_meridians: [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#acks)
 * :open_file_folder: :movie_camera: [Learn English: Advanced Academic Speaking and Listening](https://www.coursera.org/specializations/speaklistenenglish?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
 	* Academic Listening and Note-Taking 
 	* Presentations: Speaking so that People Listen 
@@ -72,7 +72,6 @@ Table of Contents
 	* Getting Started with Essay Writing
 	* Advanced Writing
 	* Introduction to Research for Essay Writing
-* :movie_camera: [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
 * :open_file_folder: :movie_camera: [English For Research Publication Purposes Specialization](https://www.coursera.org/specializations/english-for-research-publication-purposes?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
   * Academic Literacy
   * Scholarly Communication
@@ -81,6 +80,10 @@ Table of Contents
   * English for Research Publication Purposes: Capstone Project
   * Writing in the Science
 
+---
+# Research
+* :globe_with_meridians: [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#acks)
+* :movie_camera: [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
 
 ---
 # Math for CS
