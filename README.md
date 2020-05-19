@@ -12,7 +12,8 @@ Table of Contents
       * [Reinforcement Learning](#reinforcement-learning)
       * [Deep Learning](#deep-learning)
    * [Computer Networking](#computer-networking)
-   * [Programming Languages](#programming-languages)
+   * [Programming](#programming)
+      * [Algorithms](#algorithms)
       * [Python](#python)
       * [Latex](#latex)
    * [Academic English](#academic-english)
@@ -45,7 +46,11 @@ Table of Contents
 # Computer Networking
 
 ---
-# Programming Languages
+# Programming 
+
+## Algorithms
+* :open_file_folder: [A Curated List of LeetCode Questions Grouped by Common Patterns](https://seanprashad.com/leetcode-patterns/)
+
 ## Python
 * :globe_with_meridians: [Real Python:](https://realpython.com/) Learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
 * Python 3 Module of the Week: A series of blog posts written by Doug Hellmann. It was started as a way to build the habit of writing something on a regular basis. The focus of the series is building a set of example code for the modules in the Python standard library. :globe_with_meridians: [[blogs]](https://pymotw.com/3/) :octocat: [[code]](https://bitbucket.org/dhellmann/pymotw/)
