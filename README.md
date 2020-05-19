@@ -99,7 +99,7 @@ Table of Contents
 * :globe_with_meridians: [How to Install and Configure VNC on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
 
 
----]
+---
 # Misc
 * :open_file_folder: :globe_with_meridians: [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu): Lectures on mastering essential tools like Git, command-line
 * :globe_with_meridians: [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
