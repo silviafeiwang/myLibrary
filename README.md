@@ -74,6 +74,7 @@ Table of Contents
   * Grant Proposal
   * English for Research Publication Purposes: Capstone Project
   * Writing in the Science
+* :open_file_folder: :globe_with_meridians: [Tons of Resources for Academic Writing by UofT ](https://writing.utoronto.ca/)
 
 ---
 # Research Skills
