@@ -22,7 +22,6 @@ Table of Contents
    * [Math for CS](#math-for-cs)
    * [Operating Systems](#operating-systems)
       * [Linux](#linux)
-      * [Unix](#unix)
    * [Misc](#misc)
 
 
