@@ -11,7 +11,8 @@ Table of Contents
    * [Machine Learning](#machine-learning)
       * [Reinforcement Learning](#reinforcement-learning)
       * [Deep Learning](#deep-learning)
-   * [Computer Networking](#computer-networking)
+   * [Computer Networks](#computer-networks)
+   * [System Design](#system-design)
    * [Programming](#programming)
       * [Algorithms](#algorithms)
       * [Python](#python)
@@ -43,9 +44,16 @@ Table of Contents
 
 
 ---
-# Computer Networking
+# Computer Networks
 
 ---
+
+# System Design
+
+* :open_file_folder: :globe_with_meridians: [Grokking the System Design Interview by Educative.io](https://www.educative.io/courses/grokking-the-system-design-interview): One of the best courses for preparing for system design questions. Go get 6 free months of 60+ Educative courses covering in-demand topics such as Machine Learning, Web Development, Python, etc., by connecting to your GitHub student account.
+
+---
+
 # Programming 
 
 ## Algorithms
@@ -54,9 +62,9 @@ Table of Contents
 ## Python
 * :globe_with_meridians: [Real Python:](https://realpython.com/) Learn all things Python from the ground up. Everything from the absolute basics of Python, to web development and web scraping, to data visualization, and beyond.
 * Python 3 Module of the Week: A series of blog posts written by Doug Hellmann. It was started as a way to build the habit of writing something on a regular basis. The focus of the series is building a set of example code for the modules in the Python standard library. :globe_with_meridians: [[blogs]](https://pymotw.com/3/) :octocat: [[code]](https://bitbucket.org/dhellmann/pymotw/)
-* :open_file_folder: :globe_with_meridians: [Awesome Python:](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources. The following are what I find very handy:
+* :open_file_folder: [Awesome Python:](https://awesome-python.com/) A curated list of awesome Python frameworks, libraries, software and resources. The following are what I find very handy:
   * :wrench: :octocat: [howdoi:](https://github.com/gleitz/howdoi) command line tool
-* :globe_with_meridians: [Create a Custom Gym Environment in Python:](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa) When we want to use Reinforcement Learning to solve our problems, we need to be able to create our own environment that behaves as we want it to. Here is an [example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e).
+* [Create a Custom Gym Environment in Python:](https://medium.com/@apoddar573/making-your-own-custom-environment-in-gym-c3b65ff8cdaa) When we want to use Reinforcement Learning to solve our problems, we need to be able to create our own environment that behaves as we want it to. Here is an [example](https://towardsdatascience.com/creating-a-custom-openai-gym-environment-for-stock-trading-be532be3910e).
 
 ## Latex
 * :pencil: [Latex Math Cheatsheet](https://www.math.uci.edu/~xiangwen/pdf/LaTeX-Math-Symbols.pdf)
@@ -79,30 +87,31 @@ Table of Contents
   * Grant Proposal
   * English for Research Publication Purposes: Capstone Project
   * Writing in the Science
-* :open_file_folder: :globe_with_meridians: [Tons of Resources for Academic Writing by UofT ](https://writing.utoronto.ca/)
+* :open_file_folder: [Tons of Resources for Academic Writing by UofT ](https://writing.utoronto.ca/)
 
 ---
 # Research Skills
-* :globe_with_meridians: [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow)
-* :globe_with_meridians: [Tips for Finding Research Problems](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)
-* :globe_with_meridians: [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#acks)
-* :globe_with_meridians: [General Research Tips & Techniques](https://www.umflint.edu/library/research-tips-techniques)
+* [A Research to Engineering Workflow](http://dustintran.com/blog/a-research-to-engineering-workflow)
+* [Tips for Finding Research Problems](https://www.cs.jhu.edu/~jason/advice/how-to-find-research-problems.html)
+* [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html#acks)
+* [General Research Tips & Techniques](https://www.umflint.edu/library/research-tips-techniques)
 * :movie_camera: [Academic Information Seeking](https://www.coursera.org/learn/academicinfoseek?utm_source=link&utm_medium=page_share&utm_content=xdp&utm_campaign=banner_button)
-* :globe_with_meridians: [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data)
+* [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data)
 
 ---
 # Math for CS
 
 ---
-# Operating Systems
+
+# Operating System
 ## Linux
-* :globe_with_meridians: [How to Install and Configure VNC on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
+* [How to Install and Configure VNC on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
 
 
 ---
 # Misc
-* :open_file_folder: :globe_with_meridians: [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu): Lectures on mastering essential tools like Git, command-line
-* :globe_with_meridians: [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
+* :open_file_folder: [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu): Lectures on mastering essential tools like Git, command-line
+* [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
 
 ---
 Note:
@@ -112,7 +121,7 @@ Note:
 * collection/specialization :open_file_folder:
 * conferences/talks :speech_balloon:
 * online video courses :movie_camera:
-* blogs/websites :globe_with_meridians:
+* online learning: :globe_with_meridians:
 * libararies/frameworks/software/tools :wrench:
 * GitHub repos :octocat:
 
