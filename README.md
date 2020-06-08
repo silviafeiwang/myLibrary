@@ -87,6 +87,7 @@ Table of Contents
   * English for Research Publication Purposes: Capstone Project
   * Writing in the Science
 * :open_file_folder: [Tons of Resources for Academic Writing by UofT ](https://writing.utoronto.ca/)
+* :wrench: [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/): a general resource for academic writers
 
 ---
 # Research Skills
