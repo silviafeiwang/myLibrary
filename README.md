@@ -31,6 +31,7 @@ Table of Contents
 * Deep Reinforcement Learning Hands-On by Maxim Lapan :book: [[book]](https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands?utm_source=github&utm_medium=repository&utm_campaign=9781788834247) :octocat: [[code]](https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On)
 * UCBerkely CS285 Deep Reinforcement Learning Course :globe_with_meridians: [[slides and homeworks]](http://rail.eecs.berkeley.edu/deeprlcourse/) :movie_camera: [[older lectures]]( https://m.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
 * :movie_camera: [DeepMind&UCI Deep Reinforcemenr Learning Course](https://m.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
+* :movie_camera: [Stanford CS330 Deep Multi-Task and Meta Learning](http://cs330.stanford.edu/)
 ## Deep Learning
 * :pencil: [Stanford AI Courses Cheatsheets:](https://stanford.edu/~shervine/teaching/) Easy-to-digest cheatsheets highlighting the important points of each class - CS221 AI, CS229 ML, CS230 DL.
 * fast.ai Practical Deep Learning for Coders Course :globe_with_meridians: [[website]](https://course.fast.ai/) :octocat: [[code]](https://github.com/fastai/course-v3)
