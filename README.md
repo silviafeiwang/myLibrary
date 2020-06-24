@@ -22,6 +22,7 @@ Table of Contents
    * [Math for CS](#math-for-cs)
    * [Operating Systems](#operating-systems)
       * [Linux](#linux)
+      * [Mac](#mac)
    * [Misc](#misc)
 
 
@@ -108,12 +109,15 @@ Table of Contents
 ## Linux
 * [How to Install and Configure VNC on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
 
+## Mac
+* :octocat: [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/): A collection of premium software in various categories on Mac.
+
 
 ---
 # Misc
 * :open_file_folder: [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu): Lectures on mastering essential tools like Git, command-line
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
-* :octocat:[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line): A comprehensive guide for command line.
+* :octocat: [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line): A comprehensive guide for command line.
 
 ---
 Note:
