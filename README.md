@@ -3,7 +3,7 @@
 
 A collection of resources for me to learn about the amazing world!
 
-## Table of Contents
+### Table of Contents
 
    * [My Weapon](#my-weapon)
    * [Table of Contents](#table-of-contents)
@@ -19,11 +19,12 @@ A collection of resources for me to learn about the amazing world!
    * [Academic English](#academic-english)
    * [Research Skills](#research-skills)
    * [Math for CS](#math-for-cs)
-   * [Operating Systems](#operating-systems)
+   * [Operating System](#operating-system)
       * [Linux](#linux)
       * [Mac](#mac)
    * [Misc](#misc)
 
+---
 
 ## Machine Learning
 ### Reinforcement Learning
