@@ -113,6 +113,7 @@ Table of Contents
 # Misc
 * :open_file_folder: [The Missing Semester of Your CS Education by MIT](https://missing.csail.mit.edu): Lectures on mastering essential tools like Git, command-line
 * [Build Site with Jekyll](https://github.com/feiwang20/my-weapon.wiki.git)
+* :octocat:[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line): A comprehensive guide for command line.
 
 ---
 Note:
