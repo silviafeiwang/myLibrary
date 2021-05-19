@@ -4,9 +4,6 @@
 A collection of resources for me to learn about the amazing world!
 
 ### Table of Contents
-
-   * [My Weapon](#my-weapon)
-   * [Table of Contents](#table-of-contents)
    * [Machine Learning](#machine-learning)
       * [Reinforcement Learning](#reinforcement-learning)
       * [Deep Learning](#deep-learning)
